@@ -16,3 +16,4 @@
 - Design & App Development: **Canva**, **Capcut**, **Keynote**, **Figma**
 - Academic & Productivity: **Microsoft Word**, **Microsoft Excel**, **Google Workspace**
 
+### Eduvation
