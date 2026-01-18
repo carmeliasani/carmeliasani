@@ -1,5 +1,10 @@
 ## Hi there, I'm Nurcarmelia Aiesya !👋
-- First year Bioinformatics student from Universiti Teknologi Malaysia
+- 🎓 First-year Bachelor of Computer Science (Bioinformatics).
+- 🏫 Studying at Universiti Teknologi Malaysia.
+
+## 💻 About me
+- 🌱 Currently studying **Bioinformatics** as part of my Computer Science degree
+
 
 
 <!--
