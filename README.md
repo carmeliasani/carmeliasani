@@ -1,6 +1,6 @@
 ## Hi there, I'm Nurcarmelia Aiesya !👋
-🎓 Bachelor of Computer Science (Bioinformatics) students
-🏫 Universiti Teknologi Malaysia (UTM)
+🎓 Bachelor of Computer Science (Bioinformatics) students  
+🏫 Universiti Teknologi Malaysia (UTM)  
 📍 Johor, Malaysia
 
 ## 💻 About me
