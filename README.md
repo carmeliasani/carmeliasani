@@ -4,6 +4,9 @@
 
 ## 💻 About me
 - 🌱 Currently studying **Bioinformatics** as part of my Computer Science degree
+- 🔬 Passionate in developing **research for the cure of cancer** and applying bioinformatics to healthcare challenges.
+- 📱 Interested in developing **apps that can help communities**, especially in health andeducation.
+- 
 
 
 
