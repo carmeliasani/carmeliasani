@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Nurcarmelia Aiesya !👋
+- First year Bioinformatics student from Universiti Teknologi Malaysia
+
 
 <!--
 **carmeliasani/carmeliasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
