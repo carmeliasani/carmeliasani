@@ -39,7 +39,7 @@
 - Participated in Kursus Kepimpinan Pengurusan Sistem Rumah - 2022
 
 ## 📚 Courses
-
+- [SECP1513 - Technology & Information System](https://github.com/carmeliasani/University/tree/003e4c7f3dd09f456e5dc1befe8545f0275ff4fe/SECP1513%20-%20Technology%20%26%20Information%20System)
 
 ## 🛠️ Skills
 - Programming & Development: **C++**, **Git & GitHub**
