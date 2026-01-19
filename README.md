@@ -35,8 +35,17 @@
 - Silver Award S.T.A.R Confex 6th Edition Intellectual Conference and Digital Exhibition - 2023
 - Participated in Kuiz Cabaran Minda Sihat - 2021
 - Participated in Interview Preparation Workshop - 2023
-- Participated in 
+- Participated in Myscholarship: School Tour Series - 2023
+- Participated in Kursus Kepimpinan Pengurusan Sistem Rumah - 2022
+
+## 📚 Courses
+
+
 ## 🛠️ Skills
 - Programming & Development: **C++**, **Git & GitHub**
 - Design & App Development: **Canva**, **Capcut**, **Keynote**, **Figma**
 - Academic & Productivity: **Microsoft Word**, **Microsoft Excel**, **Google Workspace**
+
+## 🌐 Languange
+- Malay - Native proficiency
+- English - Professional proficiency
