@@ -11,9 +11,32 @@
 - 🌟 Enthusiastic about **learning something new** and gaining **valuable experiences** to grow personally and professionally.
 - 💡 Always exploring new things to gain new experinces.
 
+## 🎓 Education
+- Universiti Teknologi Malaysia (2025-Present)
+  - Course: Bachelor of Computer Science (Bioinformatics) with Honours
+- Kolej Matrikulasi Johor
+  - Course: Life's Sciences
+  - CGPA: 3.71
+  - MUET: Band 4.0
+- Kolej Tunku Kurshiah
+  - SPM: 4A+ 2A 3B+
+
+## 🤝 Leadership & Position
+- Kolej Matrikulasi Johor
+  - Peer Assisted Learning (PAL) Leader 2024/2025
+- Kolej Tunku Kurshiah
+  - Badar 2022/2023
+  - Badminton Club (President) 2022/2023
+  - Robotic Club (AJK Tingkatan 4) 2021/2022
+
+## 🏆 Achievements & Involvement
+- Participated in Pertandingan Matriks Extra Quiz Challenge (Mex-Q) - 2024
+- Bronze Award International Mathematics Competition Asean - 2023
+- Silver Award S.T.A.R Confex 6th Edition Intellectual Conference and Digital Exhibition - 2023
+- Participated in Kuiz Cabaran Minda Sihat - 2021
+- Participated in Interview Preparation Workshop - 2023
+- Participated in 
 ## 🛠️ Skills
 - Programming & Development: **C++**, **Git & GitHub**
 - Design & App Development: **Canva**, **Capcut**, **Keynote**, **Figma**
 - Academic & Productivity: **Microsoft Word**, **Microsoft Excel**, **Google Workspace**
-
-### Eduvation
