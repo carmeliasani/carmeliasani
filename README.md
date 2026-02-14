@@ -1,5 +1,5 @@
 ## Hi there, I'm Nurcarmelia Aiesya !👋
-📑 [E-Portfolio](https://github.com/carmeliasani/carmeliasani.github.io)<br>
+📑 [E-Portfolio](https://carmeliasani.github.io/)<br>
 <br>
 🎓 Bachelor of Computer Science (Bioinformatics) students  
 🏫 Universiti Teknologi Malaysia (UTM)  
